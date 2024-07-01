@@ -1,8 +1,8 @@
-- 👋 Hi
-- 👀 I’m interested in music, ios dev, encryption/hacking, and transforming hardawre devices
-- 🌱 I’m currently learning swift
-- 💞️ I’m looking to collaborate on apps, ctf, bug bounties, and hardware ideas
-- 📫 How to reach me: email me 
+- 👋 Hi there! I'm a musician and programmer interested in all things innovation and imagination.
+- 👀 I’m interested in music, programming of all kinds, encryption/hacking, transforming hardware devices, and more.
+- 🌱 I’m currently learning python for hardware, swift/obj-c. HTML/CSS. backend, and more!
+- 💞️ I’m looking to collaborate on ios apps, ctf/bug bounties, music projects, games and hardware ideas
+- 📫 How to reach me: email me!
 
 <!---
 a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
